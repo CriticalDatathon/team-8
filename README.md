@@ -1,7 +1,8 @@
 # team-8
 Team 8
 
-Students: David, Jayla, Maria, Hadyzha
+Students: David, Jayla, Maria, Hadayza
+Mentors: Sicheng, Kaanan, David, Rakesh, Mohsen
 
 Link to google drive folder https://drive.google.com/open?id=1AtxI--niR2clLLBc1NL2DNr9nrLQYw0F&usp=drive_fs
 
